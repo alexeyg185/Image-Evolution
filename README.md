@@ -43,7 +43,10 @@ Implements an Optimization Scheme in the most basic way:
 _Results Overview_
 
 With some fine-tuning and the implementation of heuristics, the algorithm successfully achieves its objective. It quickly reaches a satisfactory level of precision before experiencing a slowdown in progress, exhibiting a logarithmic learning curve. While there is scope for further improvements, due to time constraints, the current state of the project offers a working solution that is quite efficient.
-
+![alt text](https://github.com/alexeyg185/Image-Evolution/blob/main/images/farmer.png?raw=true)
+![alt text](https://github.com/alexeyg185/Image-Evolution/blob/main/images/mona_lisa.png?raw=true)
+![alt text](https://github.com/alexeyg185/Image-Evolution/blob/main/images/monitor.png?raw=true)
+![alt text](https://github.com/alexeyg185/Image-Evolution/blob/main/images/simple.png?raw=true)
 
 _Files and Classes:_
 
